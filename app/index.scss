@@ -533,10 +533,17 @@ header {
             height: 19px;
             background: url('./img/close.png') no-repeat center center;
         }
+        .tip {
+            width: 340px;
+            margin: 0 auto 15px;
+            line-height: 1.5;            
+            font-size: 16px;
+        }
         .line {
             overflow: hidden;
             width: 340px;
-            margin: 0 auto 35px;
+            // margin: 0 auto 35px;
+            margin: 0 auto 15px;
             div {
                 float: left;
             }
